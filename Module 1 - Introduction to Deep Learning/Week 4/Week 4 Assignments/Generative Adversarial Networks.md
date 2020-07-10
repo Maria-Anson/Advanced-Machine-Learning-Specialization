@@ -11,4 +11,9 @@ to setup your own environment is worth the comfort throughout the course.*
 
 This is the notebook for generative adversarial networks assignment.
 
+Coursera Jupyter Environment can be slow if many learners use it heavily. Our
+tasks are compute-heavy and we recommend to run them on your hardware for
+optimal performance. For instructions follow
+[https://github.com/hse-aml/intro-to-dl/blob/master/README.md](https://github.com/hse-aml/intro-to-dl/blob/master/README.md)
+
 *****
