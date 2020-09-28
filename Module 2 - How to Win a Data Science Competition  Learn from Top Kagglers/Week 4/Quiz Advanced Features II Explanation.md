@@ -5,7 +5,7 @@ shape (5000, 53). What is the shape of X?
 
 **Correct answers:**
 
-* . Yes, it should be (n_samples, n_components).
+*  Yes, it should be (n_samples, n_components).
 
 **Incorrect answers:**
 
